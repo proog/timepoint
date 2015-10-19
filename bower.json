@@ -1,0 +1,21 @@
+{
+  "name": "timepoint",
+  "version": "0.0.0",
+  "authors": [
+    "Per Mortensen <per@permortensen.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.3",
+    "bootstrap": "~3.3.5",
+    "momentjs": "~2.10.6",
+    "angular-bootstrap-datetimepicker": "~0.3.13"
+  }
+}
